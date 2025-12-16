@@ -2,7 +2,7 @@
 venv/
 
 # Sensitive Environment Variables
-.env/
+.env
 
 # Compiled Python files and other temporary files
 __pycache__/
