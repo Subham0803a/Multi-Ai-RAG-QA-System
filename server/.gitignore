@@ -1,9 +1,0 @@
-# Virtual Environment
-venv/
-
-# Sensitive Environment Variables
-.env
-
-# Compiled Python files and other temporary files
-__pycache__/
-*.pyc
